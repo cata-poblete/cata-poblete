@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Catalina
 
-<!--
-**cata-poblete/cata-poblete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Tech Recruiter en **Buk** y me dedico a construir equipos de Ingeniería de Software en **Chile y LATAM**.
 
-Here are some ideas to get you started:
+Como psicóloga organizacional, me interesa entender tanto la tecnología como las personas que la construyen. Estoy en GitHub para aprender continuamente sobre el ecosistema de desarrollo de software y generar conversaciones más relevantes con la comunidad técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y áreas que sigo de cerca
+
+- Ruby on Rails
+- TypeScript
+- Python
+- AWS
+- Inteligencia Artificial y LLMs
+
+## 💼 ¿Qué tipo de roles recluto?
+
+- Software Engineer
+- Engineering Manager
+- Tech Leads
+- Operations Software Engineer
+
+## 🤝 Conversemos
+
+Siempre estoy feliz de conectar con personas de la comunidad tech, conocer nuevos proyectos o conversar sobre oportunidades.
+
+- 💼 LinkedIn: https://www.linkedin.com/in/catalina-poblete-canales-b26b40231/
+- 📧 Correo: cpoblete@buk.cl
