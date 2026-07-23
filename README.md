@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Cata
+# ¡Hola! Soy Cata :) 
 
 Soy Tech Recruiter en **Buk** y me dedico a construir equipos de Ingeniería de Software en **Chile y LATAM**.
 
