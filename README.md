@@ -18,7 +18,7 @@
 
 ### 💼 Roles que acompaño en Buk
 
-* 🛠️ **Software Engineer** (Backend, Frontend & Fullstack)
+* 🛠️ **Software Engineer** (Backend & Fullstack)
 * ⚙️ **Operations Software Engineer**
 * 🧠 **Tech Leads**
 * 🎯 **Engineering Manager**
