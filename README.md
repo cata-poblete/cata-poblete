@@ -43,3 +43,4 @@ Siempre feliz de conectar con personas de la comunidad tech, conocer nuevos proy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-poblete-canales-b26b40231/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cpoblete@buk.cl)
+[![Agendar Entrevista](https://img.shields.io/badge/Agendar_Entrevista-0052CC?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.app.google/vR8QSd2RA3YPvbdw9)
