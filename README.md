@@ -1,4 +1,4 @@
-# ¡Hola! Soy Catalina Poblete 👋
+# ¡Hola! Soy Cata 👋
 
 **Tech Recruiter @ Buk 💙 | Conectando talento de ingeniería en Chile & LATAM 🚀**
 
