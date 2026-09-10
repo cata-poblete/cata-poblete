@@ -1,33 +1,45 @@
-# ¡Hola! Soy Cata :) 
+# ¡Hola! Soy Catalina Poblete 👋
 
-Soy Tech Recruiter en **Buk** y me dedico a construir equipos de Ingeniería de Software en **Chile y LATAM**.
+**Tech Recruiter @ Buk 💙 | Conectando talento de ingeniería en Chile & LATAM 🚀**
 
-Como psicóloga organizacional, me interesa entender tanto la tecnología como las personas que la construyen. Estoy en GitHub para aprender continuamente sobre el ecosistema de desarrollo de software y generar conversaciones más relevantes con la comunidad técnica.
+> *"Como psicóloga organizacional, me apasiona entender tanto la tecnología como a las personas que la construyen. Mi objetivo en GitHub es conectar de forma legítima con la comunidad Open Source, aprender continuamente del ecosistema y abrir puertas a desafíos técnicos reales."*
 
-## 🚀 Tecnologías y áreas que sigo de cerca
+---
 
-- Ruby on Rails
-- TypeScript
-- Python
-- AWS
-- Inteligencia Artificial y LLMs
+### 💻 Tecnologías y áreas que sigo de cerca
 
-## 💼 ¿Qué tipo de roles recluto?
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AI & LLMs](https://img.shields.io/badge/AI_&_LLMs-20B2AA?style=for-the-badge&logo=openai&logoColor=white)
 
-- Software Engineer
-- Engineering Manager
-- Tech Leads
-- Operations Software Engineer
+---
 
-## 🤝 Conversemos
+### 💼 Roles que acompaño en Buk
 
-Siempre estoy feliz de conectar con personas de la comunidad tech, conocer nuevos proyectos o conversar sobre oportunidades.
+* 🛠️ **Software Engineer** (Backend, Frontend & Fullstack)
+* ⚙️ **Operations Software Engineer**
+* 🧠 **Tech Leads**
+* 🎯 **Engineering Manager**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/catalina-poblete-canales-b26b40231/
-- 📧 Correo: cpoblete@buk.cl
+---
 
-## Ingeniería en Buk, en tres documentos 🚀
+### 🚀 Ingeniería en Buk, en tres documentos
 
-*   **[01-presencia](https://github.com/cata-poblete/01-presencia):** Quiénes somos y cómo trabajamos.
-*   **[02-evidencia](https://github.com/cata-poblete/02-evidencia):** Arquitectura, escala y prácticas reales.
-*   **[03-conversion](https://github.com/cata-poblete/03-conversion):** Tech blog, open source y portal de carreras.
+Explora cómo construimos tecnología, nuestra escala y la evidencia de nuestra cultura de ingeniería:
+
+| Pilar | ¿Qué vas a encontrar aquí? |
+| :--- | :--- |
+| 🌎 **[01-presencia](https://github.com/cata-poblete/01-presencia)** | Quiénes somos, nuestro impacto en LATAM y cultura de ownership. |
+| 🛠️ **[02-evidencia](https://github.com/cata-poblete/02-evidencia)** | Arquitectura real (*Boring Tech*), escala, resiliencia y prácticas. |
+| 📚 **[03-conversion](https://github.com/cata-poblete/03-conversion)** | Tech Blog, proyectos Open Source y vacantes en nuestro portal. |
+
+---
+
+### 🤝 Hablemos sin rodeos
+
+Siempre feliz de conectar con personas de la comunidad tech, conocer nuevos proyectos o conversar sobre oportunidades en Buk.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalina-poblete-canales-b26b40231/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cpoblete@buk.cl)
