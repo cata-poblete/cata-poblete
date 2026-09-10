@@ -25,3 +25,9 @@ Siempre estoy feliz de conectar con personas de la comunidad tech, conocer nuevo
 
 - 💼 LinkedIn: https://www.linkedin.com/in/catalina-poblete-canales-b26b40231/
 - 📧 Correo: cpoblete@buk.cl
+
+## Ingeniería en Buk, en tres documentos 🚀
+
+*   **[01-presencia](https://github.com/cata-poblete/01-presencia):** Quiénes somos y cómo trabajamos.
+*   **[02-evidencia](https://github.com/cata-poblete/02-evidencia):** Arquitectura, escala y prácticas reales.
+*   **[03-conversion](https://github.com/cata-poblete/03-conversion):** Tech blog, open source y portal de carreras.
