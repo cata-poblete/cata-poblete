@@ -37,7 +37,7 @@ Explora cómo construimos tecnología, nuestra escala y la evidencia de nuestra 
 
 ---
 
-### 🤝 Hablemos sin rodeos
+### 🤝 Hablemos
 
 Siempre feliz de conectar con personas de la comunidad tech, conocer nuevos proyectos o conversar sobre oportunidades en Buk.
 
