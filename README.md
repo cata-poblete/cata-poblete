@@ -2,7 +2,7 @@
 
 **Tech Recruiter @ Buk 💙 | Conectando talento de ingeniería en Chile & LATAM 🚀**
 
-> *"Como psicóloga organizacional, me apasiona entender tanto la tecnología como a las personas que la construyen. Mi objetivo en GitHub es conectar de forma legítima con la comunidad Open Source, aprender continuamente del ecosistema y abrir puertas a desafíos técnicos reales."*
+> *Como psicóloga organizacional, me apasiona entender tanto la tecnología como a las personas que la construyen. Mi objetivo en GitHub es conectar de forma legítima con la comunidad Open Source, aprender continuamente del ecosistema y abrir puertas a desafíos técnicos reales.*
 
 ---
 
